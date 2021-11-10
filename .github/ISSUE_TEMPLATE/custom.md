@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Submit new issue
 about: 'Create an issue to notify the findora team '
 title: "[Issue]"
 labels: ''
